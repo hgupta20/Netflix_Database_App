@@ -6,3 +6,10 @@ or a partial match such as “king”. The program will then search for one or m
 name, release year, average review, overall ranking, etc. 
 
 Here’s an example of a program run:
+
+![GitHub Logo](1.png)
+
+
+![GitHub Logo](2.png)
+
+
